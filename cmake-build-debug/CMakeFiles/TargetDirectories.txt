@@ -1,0 +1,3 @@
+C:/Visual Studio C++ Code/UNTITLED10/cmake-build-debug/CMakeFiles/UNTITLED10.dir
+C:/Visual Studio C++ Code/UNTITLED10/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Visual Studio C++ Code/UNTITLED10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
